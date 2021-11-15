@@ -1,6 +1,6 @@
 # python-challenges
 A repository dedicated to simple python challenges, meant exclusively for learning.
-All .py files uploaded were tested, are fully functional. Though raw they are easy to understand and can be adapted to any special need. 
+All .py files uploaded were tested and are fully functional. Though raw they are easy to understand and can be adapted to any special need. 
 The challenges are the ones that follow:
 
 1. Convert radians into degrees

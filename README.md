@@ -1,5 +1,5 @@
-# python-challenges
-A repository dedicated to simple python challenges, meant exclusively for learning.
+# Code Academy's beginner python-challenges 
+A repository dedicated to simple python challenges, meant for learning.
 All .py files uploaded were tested and are fully functional. Though raw they are easy to understand and can be adapted to any special need. 
 The challenges are the ones that follow:
 
